@@ -1,2 +1,2 @@
-one = input("Enter something")
-print(one)
+n = int(input())
+
