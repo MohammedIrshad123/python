@@ -1,3 +1,6 @@
+#Find the Second Highest Score
+#Given a list of student names and scores, find the second lowest score and print the names of students who have that score in alphabetical order.
+
 students=[]
 for x in range(int(input())):
         name = input()
