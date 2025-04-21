@@ -1,0 +1,8 @@
+
+d = {'Irshad': [1,2,4], 'Bicky': [20,30,40] }
+
+dot = d['Irshad']
+print(dot)
+
+res = sum(dot)
+print(res)
